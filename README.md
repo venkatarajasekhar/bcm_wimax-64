@@ -1,5 +1,5 @@
 # bcm_wimax-64
-bcm_wimax driver from linux kerne
+bcm_wimax driver from linux kernel
 
 # reasons
 I created this repository to make this driver work on x86_64 bit linux kernel. 
